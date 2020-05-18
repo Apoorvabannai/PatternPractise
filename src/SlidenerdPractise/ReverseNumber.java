@@ -16,7 +16,6 @@ public class ReverseNumber {
         int  number = sc.nextInt();
         StringBuffer b = new StringBuffer(number+ " ");
         b.reverse();
-        System.out.println(b);
     }
     public static void methodTwo(){
         System.out.println("Enter number for method2");

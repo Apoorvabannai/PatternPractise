@@ -12,6 +12,6 @@ public class FactorialProgram {
     }
     public static void main(String [] args){
         FactorialProgram fP = new FactorialProgram();
-        fP.factorial(6);
+        fP.factorial(7);
     }
 }
